@@ -15,3 +15,7 @@
 
 # Demo Video
 [video](https://drive.google.com/file/d/1jAlSO5wHV7w5UEhAp8jRUOPRDOEPNiTK/view)
+***
+
+# Deployment
+###Github: https://github.com/dalebungay/employee-tracker
